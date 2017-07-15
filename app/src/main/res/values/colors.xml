@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#FFf1f1f1</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="selectedDay">#e1e1e1</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="today">@color/black</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="dark_grey_blue">#323d62</color>
+    <color name="lightish_blue">#536dfe</color>
+</resources>
