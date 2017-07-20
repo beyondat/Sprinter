@@ -15,7 +15,7 @@
             android:layout_alignParentLeft="true"
             android:layout_centerVertical="true"
             android:layout_marginLeft="16dp"
-            android:textColor="lightish_blue"
+            android:textColor="@color/lighted_blue"
             android:text="취소" />
         <Button
             android:id="@+id/buttonRegist"
@@ -24,7 +24,7 @@
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
             android:layout_marginRight="16dp"
-            android:textColor="lightish_blue"
+            android:textColor="@color/lighted_blue"
             android:text="등록" />
     </RelativeLayout>
 

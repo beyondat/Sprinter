@@ -9,5 +9,5 @@
     <color name="today">@color/black</color>
     <color name="transparent">@android:color/transparent</color>
     <color name="dark_grey_blue">#323d62</color>
-    <color name="lightish_blue">#536dfe</color>
+    <color name="lighted_blue">#536dfe</color>
 </resources>

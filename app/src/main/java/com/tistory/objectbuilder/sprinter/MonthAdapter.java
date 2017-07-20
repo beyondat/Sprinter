@@ -138,7 +138,7 @@ public class MonthAdapter extends BaseAdapter {
             itemView = (MonthItemView) convertView;
         }
 
-        GridView.LayoutParams params = new GridView.LayoutParams(GridView.LayoutParams.MATCH_PARENT, 70);
+        GridView.LayoutParams params = new GridView.LayoutParams(GridView.LayoutParams.MATCH_PARENT, 100);
         int rowIndex = position / countColumn;
         int columnIndex = position % countColumn;
 
